@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Area Nuova//Tech & Connect//IT
+BEGIN:VEVENT
+UID:tech-connect-20251118@areanuova.it
+DTSTAMP:20251005T150000Z
+DTSTART:20251118T073000Z
+DTEND:20251118T170000Z
+SUMMARY:Tech & Connect – Connessioni tra IoT e vita reale
+LOCATION:Università degli Studi di Foggia – DAFNE (sede di Altamura)
+DESCRIPTION:Convegno su IoT con sessioni teoriche, interventi aziendali e laboratori. 1 CFU con firma e test finale.
+END:VEVENT
+END:VCALENDAR
